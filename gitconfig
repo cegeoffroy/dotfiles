@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = charles@dgtlpay.co
+	name = Charles Geoffroy
